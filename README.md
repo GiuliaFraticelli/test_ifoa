@@ -2,4 +2,4 @@
 
 La mia prima repository
 
-Modifichiamo la repositorygit add .
+Modifichiamo la repository.
